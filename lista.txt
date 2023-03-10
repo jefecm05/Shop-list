@@ -1,0 +1,10 @@
+quantidade item
+1 : banana
+5 : Laranja
+2 : ovo
+2 : cebolinha
+1 : limão
+2 : nata
+1 : mamão
+2 : colve
+3 : sorvete
